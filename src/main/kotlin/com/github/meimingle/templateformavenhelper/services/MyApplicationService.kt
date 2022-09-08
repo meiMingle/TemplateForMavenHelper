@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.meimingle.templateformavenhelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.meimingle.templateformavenhelper.MyBundle
 
 class MyApplicationService {
 
